@@ -1,7 +1,4 @@
-## SpringBoot_CRUD
-<br/><br/>
-
-## Test your created SpringBoot
+## Test your created SpringBoot Hello World
 
 #### Go to the demo directory
 ```bash
