@@ -19,8 +19,4 @@
 <img width="1019" alt="Screenshot 2024-12-02 at 1 45 12 PM" src="https://github.com/user-attachments/assets/eb32c7d5-f220-4ef0-9737-d708f37ee42f">
 
 
-## Set up with Spring Initializr
 
-### 1. Select the Maven Project
-
-<img width="611" alt="Screenshot 2024-12-02 at 2 01 41 PM" src="https://github.com/user-attachments/assets/83e94a93-ab09-4b35-929a-88fc38dbd488">
