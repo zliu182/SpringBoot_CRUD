@@ -1,5 +1,9 @@
 ## Test your created SpringBoot Hello World
+It defines a simple Spring Boot application with a REST controller that maps the /hello endpoint to a method returning a personalized greeting based on an optional name query parameter.
 
+<br />
+
+## Test your JDK
 #### Go to the demo directory
 ```bash
 cd TestJava
