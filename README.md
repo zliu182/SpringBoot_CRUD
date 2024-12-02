@@ -4,13 +4,13 @@ It defines a simple Spring Boot application with a REST controller that maps the
 <br />
 
 ## Test your localhost
-Link: ```http://localhost:8080/hello```
+| **Link**                                           | **Output ScreenShot**                                                                                                                                                            |
+|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [http://localhost:8080/hello](http://localhost:8080/hello)    | ![Screenshot 2024-12-02 at 3 33 16 PM](https://github.com/user-attachments/assets/8458a0cf-c53f-4efd-b27b-f4811724822a)                                            |
+| [http://localhost:8080/hello?name=Vivian](http://localhost:8080/hello?name=Vivian) | ![Screenshot 2024-12-02 at 4 06 31 PM](https://github.com/user-attachments/assets/d5d2ac11-90da-47c9-8aaf-f90817477fa9)                                            |
+
 
 <br />
-
-Output:
-
-<img width="346" alt="Screenshot 2024-12-02 at 3 33 16 PM" src="https://github.com/user-attachments/assets/8458a0cf-c53f-4efd-b27b-f4811724822a">
 
 ## Key terms
 #### Package
